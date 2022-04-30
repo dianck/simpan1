@@ -1,6 +1,5 @@
----
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dinar397/public_html/
+    - export DEPLOYPATH=/home/dinar397/public_html/testgit
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
