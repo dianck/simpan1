@@ -35,6 +35,7 @@ section{
     min-height: 600px;
 }
 
+
 .pkiri, .pkanan{
     opacity: 0;
     transform: translate(-50x, 0);
